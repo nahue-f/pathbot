@@ -1,0 +1,20 @@
+{
+  "name": "pathbot",
+  "version": "1.0.0",
+  "description": "![pathbot](https://user-images.githubusercontent.com/212941/60119358-19978f00-9733-11e9-8231-79849f651541.png)",
+  "main": "solver.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahue-f/pathbot.git"
+  },
+  "author": "Nahuel Fumero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nahue-f/pathbot/issues"
+  },
+  "homepage": "https://github.com/nahue-f/pathbot#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
